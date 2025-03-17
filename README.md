@@ -8,6 +8,5 @@ This project details the steps I took to create a Trigger in a SQL database. The
 
 <h2>Project Visualization</h2>
 
-![Plot1](https://github.com/rm1367/BloodPressurePlot/blob/main/images/Proj12-31.jpg)
+![Plot1](https://github.com/rm1367/Trigger/blob/main/images/Lab9_Ryan_Maldonado.pdf)
 
-![Plot2](https://github.com/rm1367/BloodPressurePlot/blob/main/images/Proj12-61.jpg)
