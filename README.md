@@ -8,5 +8,20 @@ This project details the steps I took to create a Trigger in a SQL database. The
 
 <h2>Project Visualization</h2>
 
-![Plot1](https://github.com/rm1367/Trigger/blob/main/images/Lab9_Ryan_Maldonado.pdf)
+![Plot1](https://github.com/rm1367/Trigger/blob/main/images/d1.png)
 
+![Plot2](https://github.com/rm1367/Trigger/blob/main/images/d2.png)
+
+![Plot3](https://github.com/rm1367/Trigger/blob/main/images/d3.png)
+
+![Plot4](https://github.com/rm1367/Trigger/blob/main/images/d4.png)
+
+![Plot5](https://github.com/rm1367/Trigger/blob/main/images/d5.png)
+
+![Plot6](https://github.com/rm1367/Trigger/blob/main/images/d6.png)
+
+![Plot7](https://github.com/rm1367/Trigger/blob/main/images/d7.png)
+
+![Plot8](https://github.com/rm1367/Trigger/blob/main/images/d8.png)
+
+![Plot9](https://github.com/rm1367/Trigger/blob/main/images/d9.png)
